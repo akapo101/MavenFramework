@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-05T21:58:53 BST" name="Suite" finished-at="2023-07-05T21:59:25 BST" duration-ms="32134">
+    <groups>
+    </groups>
+    <test started-at="2023-07-05T21:58:53 BST" name="Test" finished-at="2023-07-05T21:59:25 BST" duration-ms="32134">
+      <class name="com.test.MultiTest">
+        <test-method is-config="true" signature="Initalization()[pri:0, instance:com.test.MultiTest@e056f20]" started-at="2023-07-05T21:58:53 BST" name="Initalization" finished-at="2023-07-05T21:59:03 BST" duration-ms="10539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initalization -->
+        <test-method signature="SelectDropDown()[pri:1, instance:com.test.MultiTest@e056f20]" started-at="2023-07-05T21:59:03 BST" name="SelectDropDown" finished-at="2023-07-05T21:59:04 BST" duration-ms="916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDropDown -->
+        <test-method signature="AdvanceDropDown()[pri:2, instance:com.test.MultiTest@e056f20]" started-at="2023-07-05T21:59:04 BST" name="AdvanceDropDown" finished-at="2023-07-05T21:59:06 BST" duration-ms="2228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdvanceDropDown -->
+        <test-method is-config="true" signature="CleanUp()[pri:0, instance:com.test.MultiTest@e056f20]" started-at="2023-07-05T21:59:06 BST" name="CleanUp" finished-at="2023-07-05T21:59:07 BST" duration-ms="547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CleanUp -->
+      </class> <!-- com.test.MultiTest -->
+      <class name="com.test.ngtesta">
+        <test-method signature="Test1()[pri:0, instance:com.test.ngtesta@13e39c73]" started-at="2023-07-05T21:59:07 BST" name="Test1" finished-at="2023-07-05T21:59:25 BST" duration-ms="17831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- com.test.ngtesta -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

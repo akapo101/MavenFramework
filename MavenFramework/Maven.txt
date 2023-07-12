@@ -1,0 +1,7 @@
+We will store our code in Repository - Git Repo - One Drive - google Drive
+
+Jenkins- Ci/CD - 
+
+jenkins - Git Repo
+
+Jenkins - Pom.xml - Testng.xml - Scripting - Main Functionality - Page Object Model  
